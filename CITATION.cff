@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this project in research, publications, presentations, or quality improvement work, please cite it using the information below."
+title: "Patient Voice for Quality Care"
+abstract: "Practical tools and evidence-informed resources to collect, analyse, and use patient experience feedback to improve healthcare quality and patient-centred care."
+authors:
+  - family-names: "Hasan"
+    given-names: "Aminul"
+    affiliation: "Quality Care Concern"
+version: 1.0.0
+date-released: 2026-10-20
+url: "https://github.com/aurlup-alt/patient-voice-for-quality-care"
+license: MIT
+keywords:
+  - patient voice
+  - patient experience
+  - healthcare quality improvement
+  - patient-centred care
+  - patient-reported experience measures
+  - PREMs
+  - patient safety
+  - quality improvement
