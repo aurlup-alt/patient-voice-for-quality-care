@@ -1,0 +1,145 @@
+# Patient Voice for Quality Care
+
+**Practical tools and evidence-informed resources to collect, analyse, and use patient experience feedback to improve healthcare quality and patient-centred care.**
+
+## About This Project
+
+Patient Voice for Quality Care is an open resource initiative designed to help healthcare professionals, quality improvement teams, health system leaders, and healthcare organisations understand and use patients' experiences to improve the quality of care.
+
+Patients are not merely recipients of healthcare services. Their experiences, perspectives, concerns, and feedback provide valuable insights into the safety, effectiveness, responsiveness, accessibility, and person-centredness of healthcare.
+
+This repository aims to translate patient feedback into actionable learning and sustainable quality improvement.
+
+## Why Patient Voice Matters
+
+Healthcare quality cannot be fully understood through clinical indicators and service statistics alone. Listening to patients helps healthcare organisations identify gaps that routine data may overlook.
+
+Meaningful patient engagement can help organisations:
+
+- Understand patients' experiences throughout their care journey.
+- Identify communication, access, dignity, respect, and responsiveness issues.
+- Recognise opportunities to improve patient safety and service delivery.
+- Use patient feedback to inform quality improvement priorities.
+- Strengthen trust, accountability, and patient-centred care.
+- Close the feedback loop by communicating what has changed.
+
+## Objectives
+
+This repository aims to:
+
+1. Provide practical tools for collecting patient experience feedback.
+2. Support the use of Patient-Reported Experience Measures (PREMs).
+3. Help healthcare teams analyse and interpret patient feedback.
+4. Translate patient concerns and complaints into improvement opportunities.
+5. Support the integration of patient voice into healthcare quality improvement initiatives.
+6. Encourage evidence-informed, ethical, and meaningful patient engagement.
+
+## What's Inside
+
+The repository will progressively include the following resources:
+
+| Resource | Purpose |
+|---|---|
+| Patient Experience Survey Template | Collect structured feedback about patients' experiences of care. |
+| PREMs Measurement Guide | Understand and plan the measurement of patient-reported experiences. |
+| Patient Feedback Analysis Template | Organise feedback, identify patterns, and prioritise improvement opportunities. |
+| Complaint-to-Improvement Toolkit | Use complaints and concerns as opportunities for organisational learning. |
+| Patient Voice Indicator Template | Define indicators to monitor patient experience and improvement. |
+| Patient Feedback Reporting Template | Communicate findings and improvement priorities to healthcare teams and leaders. |
+
+*Resources will be added and refined progressively. The availability and development status of individual tools will be indicated in the repository.*
+
+## Who Can Use These Resources?
+
+These resources are intended for:
+
+- Healthcare quality improvement professionals.
+- Hospital administrators and health system leaders.
+- Patient safety and clinical governance teams.
+- Healthcare providers and frontline staff.
+- Researchers and public health professionals.
+- Patient engagement and advocacy groups.
+- Healthcare quality improvement collaboratives.
+
+## How to Use This Repository
+
+1. **Identify a priority:** Select a patient experience issue that matters to patients and the healthcare organisation.
+2. **Choose an appropriate tool:** Select a survey, measurement guide, feedback analysis template, or reporting resource.
+3. **Collect feedback ethically:** Explain the purpose of feedback collection and protect patients' privacy and confidentiality.
+4. **Analyse the findings:** Identify recurring concerns, service gaps, and opportunities for improvement.
+5. **Prioritise action:** Work with relevant healthcare teams and, where appropriate, patients or their representatives to develop improvement actions.
+6. **Test and measure changes:** Use a structured quality improvement approach, such as Plan-Do-Study-Act (PDSA), to test changes and assess their effects.
+7. **Close the feedback loop:** Inform patients and staff about the actions taken and what has changed.
+
+## Guiding Principles
+
+This initiative is guided by the following principles:
+
+- **Patient-centredness:** Patients' experiences and perspectives should inform decisions about care.
+- **Respect and dignity:** Every patient should have an opportunity to share feedback without fear of blame or discrimination.
+- **Ethical practice:** Feedback should be collected and used responsibly, with appropriate privacy protections.
+- **Evidence-informed improvement:** Findings should inform practical actions and measurable improvements.
+- **Learning, not blaming:** Feedback should support learning and system improvement rather than the unfair attribution of blame.
+- **Transparency and accountability:** Organisations should communicate how patient feedback informs decisions and actions.
+- **Continuous improvement:** Patient engagement should be an ongoing process rather than a one-time survey.
+
+## Patient-Reported Experience Measures (PREMs)
+
+PREMs capture patients' reports of their experiences while receiving healthcare services. They may cover communication, respect, involvement in decisions, waiting times, coordination of care, access to services, and other aspects of the care journey.
+
+PREMs are distinct from Patient-Reported Outcome Measures (PROMs), which focus on patients' reported health status, symptoms, functioning, or quality of life.
+
+Both can contribute to a more complete understanding of healthcare quality, but they answer different questions.
+
+Where validated PREMs instruments are available, users should consider their suitability for the intended population and setting. Locally developed questions should be tested for clarity, relevance, accessibility, and cultural appropriateness before wider use.
+
+## Important Considerations
+
+The tools in this repository are intended to support learning, measurement, and quality improvement. They do not replace validated instruments, applicable ethical review requirements, data protection obligations, or local healthcare policies.
+
+When collecting patient feedback:
+
+- Avoid collecting unnecessary identifiable or sensitive information.
+- Explain how the information will be used.
+- Provide accessible opportunities for patients to participate.
+- Consider barriers affecting patients who may be underrepresented.
+- Store and share feedback securely.
+- Avoid presenting feedback from a small or unrepresentative sample as representative of all patients.
+
+## Contributing
+
+Healthcare professionals, researchers, quality improvement practitioners, and patient engagement advocates are welcome to contribute ideas, practical tools, measurement approaches, and lessons learned.
+
+Potential contributions include:
+
+- Improving existing templates and guidance.
+- Developing bilingual resources, including English and Bangla materials.
+- Sharing examples of patient feedback analysis.
+- Developing indicators and reporting approaches.
+- Suggesting evidence-informed methods for meaningful patient engagement.
+
+Please ensure that contributions do not contain identifiable patient information or confidential organisational data.
+
+## Relationship to Healthcare Quality Improvement
+
+Patient Voice for Quality Care complements broader healthcare quality improvement methods. Patient feedback can help teams identify what needs to improve, while structured improvement methods such as PDSA can help them test, learn from, and refine changes.
+
+The intended approach is simple:
+
+**Listen to patients → Understand their experiences → Identify improvement priorities → Test changes → Measure results → Share learning.**
+
+## License
+
+This repository is intended to support the sharing and adaptation of practical quality improvement resources. Unless otherwise indicated, the resources are made available under the MIT License included in this repository.
+
+## Acknowledgement and Vision
+
+Improving healthcare quality requires more than measuring services; it requires understanding how care is experienced by the people who receive it.
+
+This project seeks to support a culture in which listening to patients is a routine part of healthcare delivery, organisational learning, and quality improvement.
+
+**Better listening. Better learning. Better care.**
+
+---
+
+*Developed as a practical resource initiative for healthcare quality improvement and patient-centred care.*
