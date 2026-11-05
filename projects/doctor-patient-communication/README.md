@@ -279,6 +279,9 @@ For citation guidance, see the repository's [CITATION.cff](../../CITATION.cff).
 
 This toolkit is distributed under the repository's [MIT License](../../LICENSE).
 
+
+
+
 Users should acknowledge the source, retain applicable license notices, and clearly identify any local adaptations.
 
 ---
@@ -287,3 +290,14 @@ Users should acknowledge the source, retain applicable license notices, and clea
 **Doctor–Patient Communication Quality Improvement Toolkit**
 
 *Listen to patients. Measure their experiences. Improve communication. Strengthen trust in healthcare.*
+
+## Additional QI Monitoring and Evaluation Resources
+
+The following resources support baseline assessment, iterative improvement, weekly monitoring, and final evaluation of the 12-week hospital OPD pilot.
+
+1. [Baseline Measurement & Reporting Template](Baseline-Measurement-Report-Template.md)
+2. [PDSA Cycle Documentation Template](PDSA-Cycle-Template.md)
+3. [Weekly QI Monitoring & Run Chart Protocol](Weekly-QI-Monitoring-and-Run-Chart-Protocol.md)
+4. [Final QI Project Evaluation & Reporting Framework](Final-QI-Project-Evaluation-and-Reporting-Framework.md)
+
+These documents are reusable templates for quality improvement planning and evaluation. They do not represent completed pilot results or validated evidence of intervention effectiveness.
